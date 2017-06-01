@@ -28,7 +28,7 @@ The current implementation is not, in any way, intended, nor able to generate co
 We could not emphasize enough that this project is experimental and shared for educational purposes only.
 Both the source code and the datasets are provided to foster future research in machine intelligence and are not designed for end users.
 
-## FAQ
+### FAQ
 
 ### When will the datasets be available?
 The datasets will be made available upon publication or rejection of the paper to the [NIPS 2017 conference](https://nips.cc/Conferences/2017/Dates); author notification is scheduled for early September 2017 so the datasets will be uploaded to this repo during the same period. We will provide datasets consisting of GUI screenshots, associated DSL code, and associated target code for three different platforms (iOS, Android, web-based GUI).
