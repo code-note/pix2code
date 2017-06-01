@@ -1,4 +1,4 @@
-## pix2code
+# pix2code
 *Generating Code from a Graphical User Interface Screenshot*
 
 * A video demo of the system can be seen [here](https://youtu.be/pqKeXkhFA3I)
