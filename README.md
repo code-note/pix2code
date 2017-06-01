@@ -1,5 +1,5 @@
 # pix2code
-*Generating code from a Graphical User Interface Screenshot*
+*Generating Code from a Graphical User Interface Screenshot*
 
 [![License](http://img.shields.io/badge/license-APACHE2-blue.svg)](LICENSE.txt)
 
