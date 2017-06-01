@@ -59,7 +59,7 @@ On a Nvidia Tesla K80 GPU, it takes a little less than 5 hours to optimize the 1
 
 Even assuming a mature version of pix2code able to generate GUI code with 100% accuracy for every platforms/languages in the universe, front-enders will still be needed to implement the logic, the interactive parts, the advanced graphics and animations, and all the features users love. The product we are building at [Uizard Technologies](https://uizard.io) is intended to bridge the gap between UI/UX designers and front-end developers, not replace any of them. We want to rethink the traditional workflow that too often results in more frustration than innovation. We want designers to be as creative as possible to better serve end users, and developers to dedicate their time programming the core functionalities and forget about repetitive tasks such as UI implementation. We believe in a future where AI collaborate with humans, not replace humans.
 
-## Media coverage
+### Media coverage
 
 * [Wired UK](http://www.wired.co.uk/article/pix2code-ulzard-technologies)
 * [The Next Web](https://thenextweb.com/apps/2017/05/26/ai-raw-design-turn-source-code)
