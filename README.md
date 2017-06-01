@@ -1,7 +1,6 @@
 # pix2code
 *Generating Code from a Graphical User Interface Screenshot*
 
-
 * A video demo of the system can be seen [here](https://youtu.be/pqKeXkhFA3I)
 * The paper is available at [https://arxiv.org/abs/1705.07962](https://arxiv.org/abs/1705.07962)
 * Official research page: [https://uizard.io/research#pix2code](https://uizard.io/research#pix2code)
