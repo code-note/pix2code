@@ -19,7 +19,7 @@ Transforming a graphical user interface screenshot created by a designer into co
 }
 ```
 
-### Disclaimer
+## Disclaimer
 
 The following software is shared for educational purposes only. The author and its affiliated institution are not responsible in any manner whatsoever for any damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of the use or inability to use this software.
 
